@@ -1,0 +1,22 @@
+{
+  "name": "sit725-2021-t2-prac2",
+  "version": "1.0.0",
+  "description": "My Consultancy website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ioarun/sit725-2021-t2-prac2.git"
+  },
+  "author": "Arun Kumar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ioarun/sit725-2021-t2-prac2/issues"
+  },
+  "homepage": "https://github.com/ioarun/sit725-2021-t2-prac2#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
